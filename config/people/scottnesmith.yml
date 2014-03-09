@@ -38,4 +38,20 @@ attributes:
     homebrewalt:
         cask_apps:
             - bartender
+#            - beamer
             - choosy
+#            - calibre
+            - osxfuse
+            - boxcryptor-classic
+            - logitech-unifying   ##???
+            - xmarks-safari
+##            - ctivo
+            - dropbox
+            - fluid
+            - handbrake
+            - launchbar
+            - mailplane
+            - omnidisksweeper
+            - makemkv
+            - skype
+            - vlc

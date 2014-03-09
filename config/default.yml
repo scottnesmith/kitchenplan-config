@@ -3,8 +3,7 @@ recipes:
         - applications::create_var_chef_cache
     mac_os_x:
         - homebrewalt::default
-        - nodejs::default
-        - drivers::xerox550
+#        - drivers::xerox7328
         - osxdefaults::add_note_to_loginscreen
         - osxdefaults::disable_auto-correct
         - osxdefaults::enable_subpixel_font_rendering_on_non-apple_lcds

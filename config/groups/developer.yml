@@ -34,8 +34,15 @@ attributes:
             - wget
             - pv
             - htop-osx
-            - git-flow
+            - scala
         cask_apps:
             - google-chrome
             - firefox
             - sequel-pro
+            - java
+            - xquartz
+#            - charles
+#            - gimp
+#            - vmware-fusion
+#            - virtualbox
+#            - vagrant
