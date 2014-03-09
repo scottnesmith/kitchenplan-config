@@ -1,11 +1,6 @@
 recipes:
     global:
-        - dotfiles::gitconfig
-        - applications::sass
-        - applications::ssh_config
 #        - applications::macvim          # install xcode before trying to compile macvim
-        - dotfiles::vim
-        - dotfiles::workspace
     mac_os_x:
         - applications::sublime_text_3
         - osxdefaults::set_terminal_profile
@@ -41,4 +36,6 @@ attributes:
             - htop-osx
             - git-flow
         cask_apps:
+            - google-chrome
+            - firefox
             - sequel-pro
