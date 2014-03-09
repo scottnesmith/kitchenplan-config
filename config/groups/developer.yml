@@ -34,7 +34,46 @@ attributes:
             - wget
             - pv
             - htop-osx
+            - hub
             - scala
+#            - ctags
+#            - lame
+#            - libebml
+#            - libevent
+#            - libmatroska
+#            - libogg
+#            - libtool
+#            - libvorbis
+#            - libyaml
+#            - lua
+#            - luajit
+#            - macvim
+            - maven
+#            - mkvtoolnix
+#            - mongodb
+#            - neon
+#            - node
+#            - openssl
+#            - packer
+#            - pcre
+#            - pkg-config
+#            - pyenv
+#            - pyenv-virtualenv
+#            - python
+#            - python3
+#            - s3cmd
+#            - scons
+#            - serv
+#            - sqlite
+#            - subversion
+#            - texi2html
+#            - the_silver_searcher
+#            - tivodecode
+#            - tmux
+#            - x264
+#            - xvid
+#            - xz
+#            - yasm
         cask_apps:
             - google-chrome
             - firefox

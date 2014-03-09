@@ -1,5 +1,6 @@
 groups:
     - developer
+    - zsh
 recipes:
     mac_os_x:
         - sudoalt::default
@@ -43,7 +44,8 @@ attributes:
 #            - calibre
             - osxfuse
             - boxcryptor-classic
-            - logitech-unifying   ##???
+#            - logitech-unifying   ##???
+            - logitech-control-center
             - xmarks-safari
 ##            - ctivo
             - dropbox

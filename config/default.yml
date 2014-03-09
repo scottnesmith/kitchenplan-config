@@ -23,4 +23,3 @@ attributes:
         cask_apps:
             - google-chrome
             - firefox
-            - java
