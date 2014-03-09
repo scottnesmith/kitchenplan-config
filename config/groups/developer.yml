@@ -5,15 +5,9 @@ recipes:
         - applications::ssh_config
 #        - applications::macvim          # install xcode before trying to compile macvim
         - dotfiles::vim
-        - applications::composer
-        - applications::postgresql
-        - applications::mysql
-        - applications::php55
         - dotfiles::workspace
     mac_os_x:
-        - applications::svgo
         - applications::sublime_text_3
-        - applications::gnu-tar
         - osxdefaults::set_terminal_profile
         - osxdefaults::add_a_context_menu_item_for_showing_the_web_inspector_in_web_views
         - osxdefaults::disable_press-and-hold_for_keys_in_favor_of_key_repeat
@@ -39,31 +33,12 @@ recipes:
         - osxdefaults::finder_search_the_current_folder_by_default
         - osxdefaults::finder_unhide_home
 attributes:
-    mysql_root_password: "password"
     homebrewalt:
         apps:
             - git
-            - git-extras
             - wget
-            - pwgen
-            - xmlstarlet
             - pv
             - htop-osx
             - git-flow
-            - siege
-            - watch
         cask_apps:
-            - imageoptim
-            - imagealpha
-            - phpstorm
             - sequel-pro
-            - sourcetree
-            - recordit
-    nodejs:
-        apps:
-            - phonegap
-            - cordova
-            - ionic
-            - bower
-            - grunt
-            - grunt-cli
