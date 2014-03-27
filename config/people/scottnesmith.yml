@@ -37,13 +37,14 @@ attributes:
             passwordless: true
             include_sudoers_d: true
     homebrewalt:
+        apps:
+            - osxfuse
         cask_apps:
             - bartender
 #            - beamer
             - choosy
 #            - calibre
-            - osxfuse
-            - boxcryptor-classic
+            - boxcryptor-classic   
 #            - logitech-unifying   ##???
             - logitech-control-center
             - xmarks-safari

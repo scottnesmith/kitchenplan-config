@@ -47,7 +47,7 @@ attributes:
 #            - libyaml
 #            - lua
 #            - luajit
-#            - macvim
+            - macvim
             - maven
 #            - mkvtoolnix
 #            - mongodb
@@ -70,6 +70,7 @@ attributes:
 #            - the_silver_searcher
 #            - tivodecode
 #            - tmux
+#            - watch
 #            - x264
 #            - xvid
 #            - xz
