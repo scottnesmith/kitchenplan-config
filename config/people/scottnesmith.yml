@@ -1,6 +1,6 @@
 groups:
     - developer
-    - zsh
+#    - zsh
 recipes:
     mac_os_x:
         - sudoalt::default
@@ -38,6 +38,53 @@ attributes:
             include_sudoers_d: true
     homebrewalt:
         apps:
+            - awscli
+            - git
+            - htop-osx
+            - hub
+            - maven
+            - packer
+            - scala
+            - s3cmd
+            - wget
+#            - ctags
+#            - lame
+#            - libebml
+#            - libevent
+#            - libmatroska
+#            - libogg
+#            - libtool
+#            - libvorbis
+#            - libyaml
+#            - lua
+#            - luajit
+#            - macvim
+#            - mkvtoolnix
+#            - mongodb
+#            - neon
+#            - node
+#            - openssl
+#            - pcre
+#            - pkg-config
+#            - pv
+#            - pyenv
+#            - pyenv-virtualenv
+#            - python
+#            - python3
+#            - scons
+#            - serv
+#            - sqlite
+#            - subversion
+#            - texi2html
+#            - the_silver_searcher
+#            - tivodecode
+#            - tmux
+#            - watch
+#            - x264
+#            - xvid
+#            - xz
+#            - yasm
+#            - zsh
         cask_apps:
             - bartender
             - beamer
