@@ -81,7 +81,7 @@ attributes:
             - sequel-pro
             - java
             - xquartz
-#            - charles
+            - charles
 #            - gimp
 #            - vmware-fusion
 #            - virtualbox
