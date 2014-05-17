@@ -38,7 +38,6 @@ attributes:
             include_sudoers_d: true
     homebrewalt:
         apps:
-            - osxfuse
         cask_apps:
             - bartender
             - beamer
@@ -65,6 +64,7 @@ attributes:
             - mysqlworkbench
             - omnidisksweeper
             - omnifocus
+            - osxfuse
             - plex-home-theater
             - plex-media-server
             - reeder
