@@ -41,20 +41,39 @@ attributes:
             - osxfuse
         cask_apps:
             - bartender
-#            - beamer
-            - choosy
-#            - calibre
+            - beamer
             - boxcryptor-classic   
-#            - logitech-unifying   ##???
-            - logitech-control-center
-            - xmarks-safari
-##            - ctivo
+            - calibre
+            - charles
+            - choosy
+            - ctivo
+            - cyberduck
+            - default-folder-x
             - dropbox
+            - firefox
             - fluid
+            - gimp
+            - google-chrome
             - handbrake
+            - java
+            - keepassx
             - launchbar
+            - logitech-control-center
+            - logitech-unifying
             - mailplane
-            - omnidisksweeper
             - makemkv
+            - mysqlworkbench
+            - omnidisksweeper
+            - omnifocus
+            - plex-home-theater
+            - plex-media-server
+            - reeder
+            - scansnap-manager
             - skype
+            - subler
+            - vagrant
+            - virtualbox
             - vlc
+            - vmware-fusion
+            - xmarks-safari
+            - xquartz

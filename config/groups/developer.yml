@@ -76,13 +76,16 @@ attributes:
 #            - xz
 #            - yasm
         cask_apps:
-            - google-chrome
-            - firefox
-            - sequel-pro
-            - java
-            - xquartz
             - charles
-#            - gimp
-#            - vmware-fusion
-#            - virtualbox
-#            - vagrant
+            - cyberduck
+            - firefox
+            - fluid
+            - gimp
+            - google-chrome
+            - java
+            - keepassx
+            - mysqlworkbench
+            - vagrant
+            - virtualbox
+            - vmware-fusion
+            - xquartz
