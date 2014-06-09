@@ -92,6 +92,7 @@ attributes:
             - calibre
             - charles
             - choosy
+            - colloquy
             - ctivo
             - cyberduck
             - default-folder-x
@@ -114,6 +115,7 @@ attributes:
             - osxfuse
             - plex-home-theater
             - plex-media-server
+            - querious
             - reeder
             - scansnap-manager
             - skype
@@ -122,5 +124,4 @@ attributes:
             - virtualbox
             - vlc
             - vmware-fusion
-            - xmarks-safari
             - xquartz
