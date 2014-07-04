@@ -39,55 +39,59 @@ attributes:
     homebrewalt:
         apps:
             - awscli
+            - cscope
+            - ctags
+            - gdbm
             - git
             - htop-osx
             - hub
-            - maven
-            - packer
-            - scala
-            - s3cmd
-            - wget
-#            - ctags
 #            - lame
 #            - libebml
-#            - libevent
+            - libevent
 #            - libmatroska
 #            - libogg
 #            - libtool
 #            - libvorbis
 #            - libyaml
-#            - lua
-#            - luajit
-#            - macvim
+            - lua
+            - luajit
+            - macvim
+#            - maven
 #            - mkvtoolnix
 #            - mongodb
 #            - neon
 #            - node
 #            - openssl
-#            - pcre
+            - packer
+            - pcre
 #            - pkg-config
 #            - pv
 #            - pyenv
 #            - pyenv-virtualenv
 #            - python
 #            - python3
+            - reattach-to-user-namespace
+#            - scala
 #            - scons
 #            - serv
 #            - sqlite
 #            - subversion
+            - s3cmd
 #            - texi2html
-#            - the_silver_searcher
+            - the_silver_searcher
 #            - tivodecode
-#            - tmux
+            - tmux
 #            - watch
+            - wget
 #            - x264
 #            - xvid
-#            - xz
+            - xz
 #            - yasm
-#            - zsh
+            - zsh
         cask_apps:
             - bartender
             - beamer
+            - osxfuse
             - boxcryptor-classic   
             - calibre
             - charles
@@ -112,11 +116,10 @@ attributes:
             - mysqlworkbench
             - omnidisksweeper
             - omnifocus
-            - osxfuse
+#            - parallels-access
             - plex-home-theater
             - plex-media-server
             - querious
-            - reeder
             - scansnap-manager
             - skype
             - subler
